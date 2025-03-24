@@ -31,5 +31,3 @@ streamlit run app.py
 2. The application will launch in your web browser.
 3. Upload the `dataset_balanced.csv` file in the same directory.
 4. Explore the dataset, train models, and make predictions.
-
-## File Structure
